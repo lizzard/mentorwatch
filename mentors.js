@@ -14,7 +14,10 @@ var mentorGroups = {
                                 "clouserw", "cvan", "giorgos@mozilla.com", "groovecoder",
                                 "laura@mozilla.com", "mythmon", "openjck",
                                 "pmac@mozilla.com", "rhelmer@rhelmer.org", "r1cky",
-                                "robhudson", "sancus@off.net", "willkg"]
+                                "robhudson", "sancus@off.net", "willkg"],
+                     "ateam": ["jhammel", "whimboo", "ahal", ":sgautherie", "davehunt", 
+                               "mcote", "ehsan", "jgriffin", "jmaher", "edmorley", 
+                               "dminor", "mdas" ]
                    };
 
 function processResult(msg, results, row) {
